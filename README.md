@@ -7,6 +7,8 @@ Download the **YTDownloader.exe** file or the **YTDownloader.py** to use it.
 If you want to create the **.exe** file from the **YTDownloader.py**, execute the next command in the terminal:
 `pyinstaller --onefile -w YTDownloader.py`
 
+---
+
 * Spanish
 
 Programa en Python para descargar el audio de un vídeo de YouTube usando la url.
